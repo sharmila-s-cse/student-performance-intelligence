@@ -1,0 +1,6 @@
+{
+  "name": "Chronos: Historical Time-Travel Photo Booth",
+  "description": "Step into history with an interactive time-travel portrait studio. Capture your photo and blend your likeness into authentically rendered historical eras, from Ancient Egypt and the Renaissance to the Roaring Twenties and Apollo 11.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
